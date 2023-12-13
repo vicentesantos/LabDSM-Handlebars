@@ -1,0 +1,19 @@
+{
+  "name": "projeto_nodejs_express_handlebars_body-parser_sequelize",
+  "version": "1.0.0",
+  "description": "projeto_nodejs_express_handlebars_body-parser_sequelize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fegolim/Projeto_NodeJS_Express_Handlebars_Body-Parser_Sequelize.git"
+  },
+  "author": "Fernanda Gonçalves de Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fegolim/Projeto_NodeJS_Express_Handlebars_Body-Parser_Sequelize/issues"
+  },
+  "homepage": "https://github.com/fegolim/Projeto_NodeJS_Express_Handlebars_Body-Parser_Sequelize#readme"
+}
